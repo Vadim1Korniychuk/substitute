@@ -4,16 +4,20 @@
   "description": "Substitute keys in a string to values of json.",
   "main": "lib/index.js",
   "scripts": {
-    "start": "babel-node --presets es2015 src/",
     "build": "babel --presets es2015,stage-0 -d lib/ src/",
     "prepublish": "npm run build",
     "test": "mocha --compilers js:babel-register",
     "test:watch": "mocha --compilers js:babel-register --watch"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/Vadim1Korniychuk/substitude.git"
   },
   "author": "Vadim Korniychuk",
+  "bugs": {
+    "url": "https://github.com/Vadim1Korniychuk/substitude/issues"
+  },
+  "homepage": "https://github.com/Vadim1Korniychuk/substitude#readme",
   "license": "ISC",
   "keywords": [
     "string",
