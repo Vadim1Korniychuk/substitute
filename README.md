@@ -1,4 +1,4 @@
-# Substitude
+# Substitute
 Substitute keys in a string to values of json.
 
 ## Install ##
@@ -8,7 +8,7 @@ npm i --save substitude
 
 ## Include ##
 ```
-import Substitude from 'substitude'
+import Substitute from 'substitude'
 ```
 
 ## Initialize ##

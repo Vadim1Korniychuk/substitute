@@ -1,5 +1,5 @@
 {
-  "name": "substitude",
+  "name": "string-substitute.js",
   "version": "0.0.1",
   "description": "Substitute keys in a string to values of json.",
   "main": "lib/index.js",
@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vadim1Korniychuk/substitude.git"
+    "url": "git+https://github.com/Vadim1Korniychuk/substitute.git"
   },
   "author": "Vadim Korniychuk",
   "bugs": {
-    "url": "https://github.com/Vadim1Korniychuk/substitude/issues"
+    "url": "https://github.com/Vadim1Korniychuk/substitute/issues"
   },
-  "homepage": "https://github.com/Vadim1Korniychuk/substitude#readme",
+  "homepage": "https://github.com/Vadim1Korniychuk/substitute#readme",
   "license": "ISC",
   "keywords": [
     "string",
-    "substitude",
+    "substitute",
     "format",
     "replace",
     "inject",
