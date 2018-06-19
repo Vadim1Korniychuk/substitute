@@ -1,6 +1,6 @@
 {
   "name": "string-substitute.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Substitute keys in a string to values of json.",
   "main": "lib/index.js",
   "scripts": {
